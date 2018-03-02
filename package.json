@@ -1,0 +1,19 @@
+{
+  "name": "learnbymyself",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curvecode/demopage.git"
+  },
+  "author": "thanhlt90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curvecode/demopage/issues"
+  },
+  "homepage": "https://github.com/curvecode/demopage#readme"
+}
